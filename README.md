@@ -33,3 +33,11 @@ spring.ai.openai.api-key={API key}
 
 <br>
 
+## Anotações
+
+- @GetMapping
+- @RestController
+- @RequestMapping
+- @RequestParam
+
+<br>
